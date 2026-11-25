@@ -1,0 +1,23 @@
+{
+  "Present_Tmax": 28.7,
+  "Present_Tmin": 21.4,
+  "LDAPS_RHmin": 58.255688,
+  "LDAPS_RHmax": 91.116364,
+  "LDAPS_Tmax_lapse": 28.074101,
+  "LDAPS_Tmin_lapse": 23.006936,
+  "LDAPS_WS": 6.818887,
+  "LDAPS_LH": 69.451805,
+  "LDAPS_CC1": 0.0,
+  "LDAPS_CC2": 0.0,
+  "LDAPS_CC3": 0.0,
+  "LDAPS_CC4": 0.0,
+  "LDAPS_PPT1": 0.0,
+  "LDAPS_PPT2": 0.0,
+  "LDAPS_PPT3": 0.0,
+  "LDAPS_PPT4": 0.0,
+  "lat": 37.6046,
+  "lon": 126.991,
+  "DEM": 212.335,
+  "Slope": 2.785,
+  "Solar radiation": 5992.895996
+}
